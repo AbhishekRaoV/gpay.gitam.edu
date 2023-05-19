@@ -1,3 +1,3 @@
-[submodule "gpay/gpay.gitam.edu"] 
-  path = gpay/gpay.gitam.edu
+[submodule "gpay.gitam.edu"] 
+  path = gpay.gitam.edu
   url = https://github.com/AbhishekRaoV/gpay.gitam.edu.git
